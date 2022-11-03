@@ -1,0 +1,140 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #ffc5d9;
+}
+.titlediv{
+    color:white;
+    text-align:center;
+    height:80%;
+    margin:auto;
+    width:100%;
+}
+.title{
+    font-family: 'Annie Use Your Telescope';
+    font-size:100pt;
+    padding-bottom:10px;
+}
+.navdiv{
+    width:100%;
+}
+.nav{
+    padding-left: 140px;
+    
+    display:inline-block;
+    color:white;
+    font-size:20pt;
+    font-family: 'Concert One', cursive;
+}
+.home{
+    background-color:#ffc5d9;
+    background-image: url('icewall3.jpg');
+    background-repeat: none;
+    background-size:100%;
+    width:auto;
+    height:100%;
+}
+.menu{
+    width:100%;
+    height:100%;
+    background-color: antiquewhite;
+    
+}
+img{
+    height:300;
+    display:inline-block;
+}
+.leaf{
+    height:50px;
+}
+.subt{
+    color:#6b3e26;
+    font-size:30pt;
+    padding-top:40px;
+    text-align: center;
+    margin:0;
+}
+.rate{
+    width:100%;
+    font-size:14pt;
+    border-spacing: 30px;
+    color:#3c8652;
+    font-family:'Pacifico',cursive;
+}
+td{
+    padding-left: 10pt;
+}
+tr{
+    height:1px;
+}
+.odd{
+    text-align:right;
+    width:30%;
+}
+.even{
+    text-align:center;
+}
+.reviews{
+    background-color:#ffc5d9;
+    height:100%;
+    width:100%;
+}
+.subrimg{
+    padding-left:50px;
+    padding-top:10px;
+    height:50;
+}
+.subreview{
+    padding-left:10px;
+    background-color:#c29fab;
+    width:96%;
+    height:10%;
+    display:inline-block;
+    margin:15px;
+}
+.comment{
+    height:50%;
+    width:70%;
+    color:white;
+    display:inline-block;
+    margin:-10px;
+    padding-left:20px;
+}
+.location{
+    height:100%;
+    width:100%;
+    background-color:rgba(87, 56, 80, 0.637);
+}
+.locat{
+    height:100%;
+    width:50%;
+    float:left;
+    padding-left: 3%;
+}
+.contactus{
+    height:80%;
+    width:40%;
+    float:right;
+    padding-left: 5px;
+
+}
+iframe{
+    padding-top:5%;
+    padding-left:5%;
+    height:200;
+    width:500;
+}
+.address{
+    color:white;
+    font-size:15pt;
+    padding-left:5%;
+    padding-top:0;   
+}
+.details{
+    height:40px;
+    width:400px;
+    border-radius:10px;
+    border:0;
+    padding-left:15px;
+}
