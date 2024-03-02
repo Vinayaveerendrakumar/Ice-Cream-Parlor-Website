@@ -65,7 +65,7 @@ img{
 td{
     padding-left: 10pt;
 }
-tr{
+tr,th{
     height:1px;
 }
 .odd{
@@ -83,7 +83,7 @@ tr{
 .subrimg{
     padding-left:50px;
     padding-top:10px;
-    height:50;
+    height:50px;
 }
 .subreview{
     padding-left:10px;
